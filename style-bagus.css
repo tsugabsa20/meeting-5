@@ -1,0 +1,222 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* Nav Bar Bagus */
+.latian-header{
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    width: 1100px;
+    height: 119px;
+    margin:auto;
+    align-items: center;
+    background-color: white;
+ 
+}
+
+
+.content-text {
+    display: flex;
+    width: 407px;
+    justify-content: space-between;
+    color: rgba(32, 38, 42, 1);
+    align-items: center;
+    
+   
+   
+
+}
+.container-navbar-right >button {
+    display: inline-flex; 
+    height: 40px;
+    margin: auto 36px;
+    padding: 20px 36px;
+    align-items: center;
+    border-radius: 85px;
+    color: #00B6F0;
+    border: 1px solid #00B6F0;
+    background-color: white;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+.container-navbar-right {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    gap: 10px;
+}
+/* content 1 Bagus */
+.training {
+   width: 634px;
+   margin:auto;
+
+}
+.training h3 {
+    color: rgba(243, 205, 3, 1);
+    font-size: 36px;
+    font-weight: 450;
+    line-height: 42px;
+    letter-spacing: 0.1px;
+    word-wrap: break-word;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 20px;
+
+
+}
+.training h1 {
+    color: black;
+    font-size: 30px;
+    font-weight: 450;
+    text-align: center;
+    padding-bottom: 20px;
+
+}
+.training p {
+    color: black;
+    font-size: 20;
+    text-align: center;
+    padding-bottom: 59px;
+    
+
+
+}
+.navbar-button-1 >button {
+    padding-left: 200px;
+    display: inline-flex; 
+    height: 40px;
+    margin: auto 36px;
+    padding: 20px 36px;
+    align-items: center;
+    border-radius: 85px;
+    color: #00B6F0;
+    border: 1px solid #00B6F0;
+    background-color: white;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+.content-bottom {
+    display: flex;
+    font-weight: bold;
+    margin: auto;
+    justify-content: center;
+    
+  }
+  
+  .container-content-button1 {
+    display: flex;
+    padding: 20px 36px;
+    align-items: center;
+    height: 40px;
+    border-radius: 85px;
+    background: #00b6f0;
+    color: white;
+    border: solid;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  .container-content-button2 {
+    display: inline-flex;
+    margin-left: 13px;
+    height: 40px;
+    padding: 20px 36px;
+    align-items: center;
+    border-radius: 85px;
+    color: #00b6f0;
+    border: 1px solid #00b6f0;
+    cursor: pointer;
+    
+  }
+/* content 2 Bagus */
+  .pricing-container {
+    background-color:var(--dark-background, #182333);
+    width: 1282px;
+    height: 496px;
+    margin:auto;
+    padding: 100px 20px;
+    
+
+
+  }
+  .pricing-content {
+    width: 881px;
+    margin:auto;
+    background-color:var(--dark-background, #182333);
+    display: flex;
+
+
+  }
+  .pricing-text-1{
+    width: 437px;
+    height: 201px;
+    color: rgba(255, 255, 255, 1);
+
+  }
+  .pricing-text-1 h1{
+    padding: 10px;
+    font-size: 50px;
+  }
+  .pricing-text-1 p{
+    padding: 10px;
+    font-size: 15px;
+  }
+  .pricing-content-2 {
+    display: flex;
+    align-items: flex-start;
+    gap: 167px;
+  }
+  .pricing-text-2 {
+    width: 277px;
+    height: 296px;
+    color: rgba(255, 255, 255, 1);
+  }
+  .pricing-text-2 h1{
+    padding: 10px;
+    font-size: 20px;
+
+  }
+  .pricing-text-2 h2{
+    padding: 10px;
+    font-size: 40px;
+
+  }
+  .text-mid{
+    display: flex;
+    width: 200px;
+    height: 96px;
+    padding: 10px;
+    align-items: center;
+
+  }
+  .pricing-text-2 h3{
+    font-size: 25px;
+    align-items: center;
+
+  }
+  .text-mid-2 {
+    padding: 10px;
+  }
+  .text-mid-2 p{
+    font-size: 20px;
+    padding: 6px;  
+  }
+  .container-button-3 >button{
+    display: flex;
+    height: 52px;
+    padding: 0px 38px;
+    align-items: center;
+    border: 1px, solid;
+    border-radius: 85px;
+    color: rgba(255, 255, 255, 1);
+    background-color: var(--primary, #00B6F0);
+    font-weight: bold;
+    cursor: pointer;
+
+
+
+    
+}
